@@ -5,7 +5,7 @@
 ## 👩‍💻 About me:
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" height="90%"/>
-.
+<br>
 
 - 📍 I live in Galicia, Spain.
 
@@ -14,9 +14,11 @@
 - 📄 You can see and download my [CV](https://drive.google.com/file/d/1S6sAUzmErMgA2u9jF_74s10Q_-bMCqqy/view?usp=sharing)
 
 - 👇 How to reach me:
+<br>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugebordenave@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaeugeniab/)
+<br>
 
 ## ⚙️ Technologies & Tools
 <p align="left"> 
