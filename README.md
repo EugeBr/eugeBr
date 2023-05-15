@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋, my name is Euge.</h1>
+<h1 align="center">Hello! 👋<img src="https://raw.githubusercontent.com/EugeBr/eugeBr/master/wave.gif" width="30px" height="30px" />, my name is Euge.</h1>
 
 <h3 align="center">Full-Stack Developer.</h3>
 
