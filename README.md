@@ -53,12 +53,12 @@
 
   First project working in a web developers team and first full stack application.
   JavaScript, Handlebars, CSS, Bootstrap, Node.js, Express, MongoDB.
-  
-- [Localish]() -- [GitHub-server](https://github.com/EugeBr/find-a-market-server) - [GitHub-client](https://github.com/EugeBr/find-a-market-client)
+ 
+ <!--- [Localish]() -- [GitHub-server](https://github.com/EugeBr/find-a-market-server) - [GitHub-client](https://github.com/EugeBr/find-a-market-client)
   
   Market finder app.
   CRUD full-stack responsive application. 
-  Build with React, NodeJs and Chackra UI.
+  Build with React, NodeJs and Chackra UI.-->
   
 - Banking System -- [GitHub](https://github.com/tv-track/tv-tracker)
 
