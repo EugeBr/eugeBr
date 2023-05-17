@@ -62,7 +62,7 @@
   
 - Banking System -- [GitHub](https://github.com/tv-track/tv-tracker)
 
-  Java application for managing day to day banking operations, developed using Spring Maven, and data is stored in a MySQL database.
+  Backend Java application for managing day to day banking operations, developed using Spring Maven, and data is stored in a MySQL database.
 
 ## 📊 GitHub Stats
 
