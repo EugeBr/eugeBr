@@ -60,9 +60,13 @@
   CRUD full-stack responsive application. 
   Build with React, NodeJs and Chackra UI.-->
   
-- Banking System -- [GitHub](https://github.com/tv-track/tv-tracker)
+- Banking System -- [GitHub](https://github.com/EugeBr/BankingSystem-Spring-MidTermProject)
 
   Backend Java application for managing day to day banking operations, developed using Spring Maven, and data is stored in a MySQL database.
+
+- The Coffee Book -- [GitHub](https://github.com/EugeBr/final_project_java_ang)
+
+  Full-stack application to share coffee recipes with the comunity. Build using Spring, MySQL, Java, Angular, TypeScript and Material UI.
 
 ## 📊 GitHub Stats
 
