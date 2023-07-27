@@ -9,7 +9,7 @@
 
 - 📍 I live in Galicia, Spain.
 
-- 🌱 I'm learning about **Angular, Testing**
+- 🌱 I'm learning about **Angular, Cloud**
 
 - 🌎 I love travelling
 
